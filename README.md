@@ -1,1 +1,1 @@
-# odin-recipes
+This is where I will showcase the HTML skills I have learned as of January 18 2022
